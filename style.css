@@ -1,0 +1,57 @@
+
+html {
+    background-color: rgb(218, 108, 84);
+  }
+  
+  
+  body {
+    background-color: beige;
+    border: 10px solid;
+    border-radius: 10px;
+    border-color: rgb(196, 89, 65);
+    width: 750px;
+    margin: 25px auto;
+    padding: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: 'Gabarito', sans-serif;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  
+  h1 {
+    font-size: 40px;
+    color: rgb(172, 38, 38);
+  }
+  
+  
+  h2 {
+    color: rgb(172, 38, 38);
+  }
+  
+  
+  p,
+  ul {
+    color: rgb(138, 33, 33);
+    font-size: 20px;
+    font-family: "Gabarito", cursive;
+    text-align: center;
+    }
+  
+  
+  a:hover {
+    font-weight: bold;
+    color: rgb(116, 22, 22);
+    text-decoration: none;
+  }
+
+  img{
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgb(116, 22, 22) ;
+  }
+  
+  
+  
+  
+  
